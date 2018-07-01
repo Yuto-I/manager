@@ -1,0 +1,3 @@
+rootProject.name = 'urn3'
+
+include ':app'
